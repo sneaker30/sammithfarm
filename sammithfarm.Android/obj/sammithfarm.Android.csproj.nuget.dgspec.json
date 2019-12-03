@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/SneAkEr30.nEt/Projects/sammithfarm/sammithfarm.Android/sammithfarm.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/SneAkEr30.nEt/Projects/sammithfarm/sammithfarm.Android/sammithfarm.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/SneAkEr30.nEt/Projects/sammithfarm/sammithfarm.Android/sammithfarm.Android.csproj",
+        "projectName": "sammithfarm.Android",
+        "projectPath": "/Users/SneAkEr30.nEt/Projects/sammithfarm/sammithfarm.Android/sammithfarm.Android.csproj",
+        "packagesPath": "/Users/SneAkEr30.nEt/.nuget/packages/",
+        "outputPath": "/Users/SneAkEr30.nEt/Projects/sammithfarm/sammithfarm.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/SneAkEr30.nEt/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
